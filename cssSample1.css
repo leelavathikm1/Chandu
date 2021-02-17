@@ -1,0 +1,31 @@
+h4 {
+    background-color: cyan;
+    border: 1px solid;
+}
+h5{
+    font-weight: bold;
+    font-size: 40px;
+    border: 1px solid;
+}
+h6{
+    font-size: 30px;
+    text-align: center;
+}
+#p1{
+    color:darkmagenta;
+    border: 1px solid red;
+    padding-left: 20px;
+    margin-bottom: 100px;
+}
+
+p{
+    border: 1px solid;
+    padding: 10px;
+}
+.sameColor{
+    color: rgb(226, 21, 82);
+
+}
+h1{
+    
+}
